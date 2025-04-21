@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {"python.defaultInterpreterPath": "C:/Users/44791/anaconda3/envs/Student_Finance",
+				"python.terminal.activateEnvironment": true,
+	}
+}
